@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReopSearch</string>
+    <string name="search_title">Search</string>
+    <string name="load_more">Loading ...</string>
+    <string name="empty_text">No result</string>
+    <string name="created_at">Crated at : \n %s</string>
+    <string name="updated_at">Updated at : \n %s</string>
+</resources>
